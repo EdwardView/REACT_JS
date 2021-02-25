@@ -1,0 +1,14 @@
+.UserOutput{
+    width: 60%;
+    margin: 10px auto;
+    border: 2px solid #eee;
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    background-color: #eee;
+    padding: 15px;
+    border: 2px solid #ccc;
+}
